@@ -1,4 +1,4 @@
-![form](https://github.com/TechValleyLLC/.github/assets/28483872/dd1e6b0e-b646-4e70-9f4d-776539a40ec1)![5](https://github.com/TechValleyLLC/.github/assets/28483872/a8dd4088-a473-4523-b82f-1880bc62a1d8)![5](https://github.com/TechValleyLLC/.github/assets/28483872/41317795-c073-4b44-ba89-95777accf36f)# Flutter Projects Showcase
+# Flutter Projects Showcase
 
 Welcome to the Flutter Projects Showcase repository! This repository features a variety of Flutter projects that showcase the power and flexibility of the Flutter framework. Each project demonstrates the versatility of Flutter in creating cross-platform applications for mobile, web, and desktop platforms. From utility apps to complex user interfaces, these projects highlight the potential of Flutter and provide valuable insights into best practices for Flutter development.
 
